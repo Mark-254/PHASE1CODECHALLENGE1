@@ -25,7 +25,7 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to a
 
 #### Date, 2018/09/14
 
-#### By *Hamida Mstafa Mohamed*
+#### By *Mark-254*
 
 ## Description
 It's a webpage that shows different types of triangles and what they look like.
@@ -38,7 +38,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/ Mark-254/Triangle-tracker.git
 
 ```
 
@@ -52,8 +52,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/Mark-254
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018
